@@ -1,0 +1,9 @@
+D:\实验室电脑\program\蜂鸣器\蜂鸣器\bin\Release\蜂鸣器.exe.config
+D:\实验室电脑\program\蜂鸣器\蜂鸣器\bin\Release\蜂鸣器.exe
+D:\实验室电脑\program\蜂鸣器\蜂鸣器\bin\Release\蜂鸣器.pdb
+D:\实验室电脑\program\蜂鸣器\蜂鸣器\obj\Release\蜂鸣器.失去焦点发声.resources
+D:\实验室电脑\program\蜂鸣器\蜂鸣器\obj\Release\蜂鸣器.Properties.Resources.resources
+D:\实验室电脑\program\蜂鸣器\蜂鸣器\obj\Release\蜂鸣器.csproj.GenerateResource.Cache
+D:\实验室电脑\program\蜂鸣器\蜂鸣器\obj\Release\蜂鸣器.exe
+D:\实验室电脑\program\蜂鸣器\蜂鸣器\obj\Release\蜂鸣器.pdb
+D:\实验室电脑\program\蜂鸣器\蜂鸣器\obj\Release\蜂鸣器.csprojResolveAssemblyReference.cache
